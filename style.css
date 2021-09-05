@@ -18,3 +18,14 @@ body {
         color: Aquamarine;
         font-size: 16px;
 }
+
+p {
+    color: Gray;
+    font-size: 21px;
+}
+
+footer {
+    
+    text-align: right;
+
+}
